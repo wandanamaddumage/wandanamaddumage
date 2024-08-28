@@ -4,6 +4,8 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 
 # 🌐 Socials:
+[![Website Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=react&logoColor=white&link=https://twitter.com/Ipenywis)](https://wandana-maddumage.vercel.app/)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-33A852?style=flat&labelColor=33A852&logo=gmail&logoColor=white)](wandanamaddumage@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandana-maddumage-a923071ba/) 
 
 # 💻 Tech Stack:
