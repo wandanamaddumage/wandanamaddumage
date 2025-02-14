@@ -14,7 +14,7 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&count_private=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandanaMaddumage&layout=compact&theme=radical)
