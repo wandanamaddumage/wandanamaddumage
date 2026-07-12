@@ -13,11 +13,18 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&count_private=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandanaMaddumage&layout=compact&theme=radical)
+<img src="https://streak-stats.demolab.com/?user=wandanamaddumage&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WandanaMaddumage&theme=radical)
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+
+[![Wandana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandanamaddumage&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF)]([https://github.com/wandanamaddumage](https://github.com/wandanamaddumage))
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
