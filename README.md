@@ -21,12 +21,12 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 <!-- Contribution Graph -->
 <div align="center">
-
 [![Wandana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandanamaddumage&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF)]([https://github.com/wandanamaddumage](https://github.com/wandanamaddumage))
-
 </div>
 
+<div align="center">
 [![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
