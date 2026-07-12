@@ -26,6 +26,8 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 </div>
 
+[![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
+
 ---
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
 
