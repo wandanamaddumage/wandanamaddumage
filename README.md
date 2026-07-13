@@ -105,7 +105,7 @@ Always exploring new tools, always shipping. 🌱
 
 <div align="center">
   
-[![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
+![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)
 
 </div>
 
