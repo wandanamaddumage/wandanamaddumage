@@ -27,7 +27,7 @@ Always exploring new tools, always shipping. 🌱
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <h4>🎨 Frontend</h4>
 <p>
