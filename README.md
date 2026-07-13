@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://github.com/wandanamaddumage">
-    <img src="https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&theme=transparent&hide_border=true" alt="Wandana Maddumage" />
-  </a>
-</p>
+<h1 align="center">
+  <span style="color:#2196F3;">Hi 👋, I'm Wandana Maddumage</span>
+</h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;React%20%7C%20TypeScript%20Developer;UI%2FUX%20Focused%20Developer;Building%20Scalable%20Web%20Applications;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=2196F3&vCenter=true&pause=1000&size=22" />
   </a>
