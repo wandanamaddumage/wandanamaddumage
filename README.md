@@ -34,14 +34,6 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 </div>
 
-<div align="center">
-  
-![Snake animation](## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/wandanamaddumage/wandanamaddumage/output/github-contribution-grid-snake-cyber.svg))
-
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -68,13 +60,6 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 ---
 
 <div align="center">
-
-<!-- Snake animation — generate via GitHub Actions (instructions below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wandanamaddumage/wandanamaddumage/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wandanamaddumage/wandanamaddumage/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wandanamaddumage/wandanamaddumage/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
