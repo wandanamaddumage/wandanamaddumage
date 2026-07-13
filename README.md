@@ -28,6 +28,7 @@ Always exploring new tools, always shipping. 🌱
 ---
 
 ##🛠️ Tech Stack
+
 <h4>🎨 Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0D47A1?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -85,7 +86,7 @@ Always exploring new tools, always shipping. 🌱
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <!-- Streak Stats -->
 <div align="center">
