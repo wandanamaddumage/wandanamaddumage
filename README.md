@@ -13,15 +13,6 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 # 📊 GitHub Stats:
 
-<!-- Stats Cards Row -->
-<div align="center">
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandanamaddumage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
-</div>
-
 <!-- Streak Stats -->
 <div align="center">
 
