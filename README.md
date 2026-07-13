@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Wandana+Maddumage" alt="Wandana Maddumage" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hi%20👋,%20I'm%20Wandana%20Maddumage&fontSize=35&fontColor=2196F3&animation=fadeIn" />
 </p>
 
 <p align="center">
