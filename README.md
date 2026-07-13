@@ -8,12 +8,6 @@
   </a>
 </p>
 
-# Hi there, I'm Wandana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-### Software Engineer | Problem Solver | Like to Contribute to Open-Source Projects<br><be>
-I'm passionate about crafting efficient, scalable web applications with cutting-edge technologies. My expertise lies in:<br><br>- 💫 React.js for dynamic user interfaces<br>- 💫 Next.js for server-side rendering<br>- 💫 JavaScript and TypeScript development<br>- 💫 Front-end optimization techniques<br><br>Current Focus:<br>- ⚡Enhancing React component architecture<br>- ⚡Improving state management with Redux<br>- ⚡Implementing responsive designs with Tailwind CSS<br>- ⚡Writing clean, maintainable code<br><br>Actively seeking opportunities to contribute to innovative web projects and expand my skillset in modern web technologies.<br><br>- 📧 How to reach me: wandanamaddumage@gmail.com 
-
-<h3>Where to find me</h3>
-
 <div align="center">
   
 <p>
@@ -26,6 +20,13 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 </p>
 
 </div>
+
+### Software Engineer | Problem Solver | Like to Contribute to Open-Source Projects<br><be>
+I'm passionate about crafting efficient, scalable web applications with cutting-edge technologies. My expertise lies in:<br><br>- 💫 React.js for dynamic user interfaces<br>- 💫 Next.js for server-side rendering<br>- 💫 JavaScript and TypeScript development<br>- 💫 Front-end optimization techniques<br><br>Current Focus:<br>- ⚡Enhancing React component architecture<br>- ⚡Improving state management with Redux<br>- ⚡Implementing responsive designs with Tailwind CSS<br>- ⚡Writing clean, maintainable code<br><br>Actively seeking opportunities to contribute to innovative web projects and expand my skillset in modern web technologies.<br><br>- 📧 How to reach me: wandanamaddumage@gmail.com 
+
+<h3>Where to find me</h3>
+
+
 
 ------------
 
