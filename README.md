@@ -36,7 +36,7 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/rwandanamaddumage/rwandanamaddumage/output/github-contribution-grid-snake-cyber.svg)
+![Snake animation](https://raw.githubusercontent.com/wandanamaddumage/wandanamaddumage/output/github-contribution-grid-snake-cyber.svg)
 
 </div>
 
