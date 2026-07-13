@@ -28,6 +28,10 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 [![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
 </div>
 
+<div align="center">
+![Snake animation](https://raw.githubusercontent.com/rwandanamaddumage/rwandanamaddumage/output/github-contribution-grid-snake-cyber.svg)
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
 
