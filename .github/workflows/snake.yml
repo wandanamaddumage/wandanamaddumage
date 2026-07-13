@@ -24,23 +24,22 @@ jobs:
       - name: Install dependencies
         run: pip install svgwrite
 
-      - name: Generate contribution snake with custom colors
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: rwandanamaddumage
+          github_user_name: wandanamaddumage
           outputs: |
             dist/snake-base.svg
 
-      - name: Apply cyber color theme
+      - name: Apply cyber theme
         run: |
           python << 'EOF'
           import re
           
-          # Read the SVG
           with open('dist/snake-base.svg', 'r') as f:
               content = f.read()
           
-          # Color mapping for GitHub contribution grid (your space theme)
+          # Your space theme colors
           color_map = {
               '#ebedf0': '#0a0e27',
               '#9be9a8': '#30344d',
@@ -49,11 +48,9 @@ jobs:
               '#216e39': '#00c8ff',
           }
           
-          # Replace colors
           for old, new in color_map.items():
               content = content.replace(old, new)
           
-          # Add glow filter
           glow_filter = '''
           <defs>
               <filter id="glowSmall" x="-50%" y="-50%" width="200%" height="200%">
@@ -67,7 +64,6 @@ jobs:
           '''
           content = content.replace('<svg', '<svg' + glow_filter, 1)
           
-          # Make snake glow cyan - FIXED VERSION
           content = re.sub(
               r'<path[^>]*class="[^"]*snake[^"]*"[^>]*>',
               lambda m: m.group(0).replace('fill="', 'fill="#00c8ff" filter="url(#glowSmall)" '),
@@ -78,7 +74,7 @@ jobs:
               f.write(content)
           EOF
 
-      - name: Push output to `output` branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
