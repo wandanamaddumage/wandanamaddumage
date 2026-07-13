@@ -13,12 +13,7 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=wandanamaddumage&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
-
-</div>
-
+<!-- Stats Cards Row -->
 <div align="center">
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
@@ -28,6 +23,19 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 </div>
 
 <!-- Streak Stats -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=wandanamaddumage&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
+
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+
+[![Wandana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wandanamaddumage&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF)](https://github.com/wandanamaddumage)
+
+</div>
+
 
 <div align="center">
   
