@@ -21,24 +21,28 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=JayathuShehan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wandanamaddumage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 &nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayathuShehan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandanamaddumage&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
 </div>
 
 <!-- Streak Stats -->
-<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JayathuShehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="60%" />
+<div align="center">
+  
+[![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
 
 </div>
 
 <div align="center">
-[![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
+  
+![Snake animation](https://raw.githubusercontent.com/rwandanamaddumage/rwandanamaddumage/output/github-contribution-grid-snake-cyber.svg)
+
 </div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=wandanamaddumage&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📈 Contribution Breakdown
