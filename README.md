@@ -115,7 +115,6 @@ Always exploring new tools, always shipping. 🌱
 
 ## 📈 Contribution Breakdown
 
-<!-- Language progress bars via github-profile-summary-cards -->
 <div align="center">
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wandanamaddumage&theme=tokyonight)](https://github.com/wandanamaddumage)
