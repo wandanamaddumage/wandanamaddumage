@@ -55,13 +55,6 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 
 ## 📈 Contribution Breakdown
 
-<!-- Top languages — compact layout (works on free tier) -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandanamaddumage&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&card_width=500" width="500" />
-
-</div>
-
 <!-- Language progress bars via github-profile-summary-cards -->
 <div align="center">
 
