@@ -27,7 +27,7 @@ Always exploring new tools, always shipping. 🌱
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+##🛠️ Tech Stack
 <h4>🎨 Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0D47A1?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -83,13 +83,9 @@ Always exploring new tools, always shipping. 🌱
   <img src="https://img.shields.io/badge/Notepad++-64B5F6?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2196F3,100:0D47A1" />
-</p>
-
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!-- Streak Stats -->
 <div align="center">
@@ -111,10 +107,6 @@ Always exploring new tools, always shipping. 🌱
 [![](https://stats.pphat.top/stats?username=wandanamaddumage&avatar_mode=radar&theme=default&data_border_style=frame)]
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2196F3,100:0D47A1" />
-</p>
 
 ---
 
