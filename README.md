@@ -2,6 +2,11 @@
 ### Software Engineer | Problem Solver | Like to Contribute to Open-Source Projects<br><be>
 I'm passionate about crafting efficient, scalable web applications with cutting-edge technologies. My expertise lies in:<br><br>- 💫 React.js for dynamic user interfaces<br>- 💫 Next.js for server-side rendering<br>- 💫 JavaScript and TypeScript development<br>- 💫 Front-end optimization techniques<br><br>Current Focus:<br>- ⚡Enhancing React component architecture<br>- ⚡Improving state management with Redux<br>- ⚡Implementing responsive designs with Tailwind CSS<br>- ⚡Writing clean, maintainable code<br><br>Actively seeking opportunities to contribute to innovative web projects and expand my skillset in modern web technologies.<br><br>- 📧 How to reach me: wandanamaddumage@gmail.com 
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+------------
 
 # 🌐 Socials:
 [![Website Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat&labelColor=1ca0f1&logo=react&logoColor=white&link=https://twitter.com/Ipenywis)](https://wandana-maddumage.vercel.app/)
@@ -55,6 +60,7 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 &nbsp;
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wandanamaddumage&theme=tokyonight&utcOffset=5.5)](https://github.com/wandanamaddumage)
 
+
 </div>
 
 ---
@@ -65,3 +71,6 @@ I'm passionate about crafting efficient, scalable web applications with cutting-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 
 </div>
+
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
