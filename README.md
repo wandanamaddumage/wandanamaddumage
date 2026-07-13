@@ -10,7 +10,7 @@
   
 <p>
   <a href="https://github.com/wandanamaddumage" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/thomas-guibert](https://www.linkedin.com/in/wandana-maddumage-a923071ba" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/wandana-maddumage-a923071ba" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@mwandanam" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://dev.to/wandanamaddumage" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://wandana-maddumage.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
