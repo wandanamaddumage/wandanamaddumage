@@ -131,7 +131,7 @@ Always exploring new tools, always shipping. 🌱
 
 </div>
 
----
+----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2196F3,100:0D47A1" />
