@@ -129,7 +129,6 @@ Always exploring new tools, always shipping. 🌱
 &nbsp;
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wandanamaddumage&theme=tokyonight&utcOffset=5.5)](https://github.com/wandanamaddumage)
 
-
 </div>
 
 ---
