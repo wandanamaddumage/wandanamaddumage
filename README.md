@@ -25,7 +25,7 @@ I craft efficient, scalable web applications with modern tech — turning ideas 
 
 Always exploring new tools, always shipping. 🌱
 
----
+----
 
 ## 🛠️ Tech Stack
 
